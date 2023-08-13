@@ -1,4 +1,5 @@
 """Minimum Excludant (mex) function
+
 You've just started to study impartial games, and came across an interesting
 theory. The theory is quite complicated, but it can be narrowed down to the
 following statements: solutions to all such games can be found with the mex

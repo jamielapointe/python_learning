@@ -1,4 +1,5 @@
 """List Beautifier
+
 Let's call a list beautiful if its first element is equal to its last element,
 or if a list is empty. Given a list a, your task is to chop off its first and
 its last element until it becomes beautiful. Implement a function that will
